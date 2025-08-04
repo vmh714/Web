@@ -1,0 +1,23 @@
+body {
+  line-height: 30px;
+}
+
+h1 h2 h3 {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+  color: yellow;
+  text-decoration: underline;
+}
+h3 {
+  font-weight: bold;
+}
+.price {
+  color: red;
+  font-weight: bold;
+}

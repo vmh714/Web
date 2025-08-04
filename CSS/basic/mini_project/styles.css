@@ -1,0 +1,18 @@
+body {
+  background-color: #f0f0f0;
+  font-family: "Times New Roman", Times, serif;
+}
+.recipe-card {
+  width: auto;
+  border: 1px solid #ccc;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+.recipe-card img {
+  width: 100%;
+  height: auto;
+}
+.card-content {
+  padding: 20px;
+  text-align: left;
+}
